@@ -1,0 +1,13 @@
+body {
+    background-image: url("https://static.vecteezy.com/system/resources/previews/013/066/018/non_2x/human-using-a-computer-laptop-for-searching-for-job-and-fill-out-personal-data-on-job-website-to-file-a-resume-and-apply-application-to-jobs-on-the-internet-work-search-online-concept-photo.jpg");
+    background-color: #cccccc;
+    font: 15px sans-serif;
+    color: darkslateblue;
+    border: 5px dashed darkslateblue;
+    margin: 15px;
+    padding: 15px;
+    text-align: center
+   }
+   td {
+    text-align: center;
+  }
